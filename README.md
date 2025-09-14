@@ -1,6 +1,6 @@
 <!-- ===== PROFILE BANNER ===== -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29eeb062-d3f2-4956-80b9-890e60b0d6f2" alt="Banner" />
+  <img src="https://github.com/user-attachments/assets/4589d71f-2026-42f4-9eb8-7c17f0adbeae" alt="Banner" />
 </p>
 <!-- Title -->
 <h1 align="center">Hello, I'm Shivashish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
