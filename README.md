@@ -1,6 +1,7 @@
 <!-- ===== PROFILE BANNER ===== -->
-![Banner](https://github.com/ShivashishShrivastava/ShivashishShrivastava/assets/PLACEHOLDER_BANNER_LINK "Shivashish Shrivastava — Data Analyst | Python · SQL · Power BI · Excel | Turning Data into Decisions")
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/29eeb062-d3f2-4956-80b9-890e60b0d6f2" alt="Banner" />
+</p>
 <!-- Title -->
 <h1 align="center">Hello, I'm Shivashish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"></h1>
 <h3 align="center">🚀 Data Analyst | Python · SQL · Power BI · Excel</h3>
@@ -50,13 +51,19 @@ I’m a **Data Analyst** who transforms raw datasets into actionable insights.
 
 | Project | Tools Used | Focus | Summary |
 |---|---|---|---|
-| [![Aerofit](https://img.shields.io/badge/Aerofit_Segmentation-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShivashishShrivastava/Aerofit-Segmentation) | Python · Pandas · Seaborn · Sheets | Segmentation · Hypothesis Testing | Segmented treadmill customers, ran Chi-square & ANOVA, delivered 13 strategies. |
-| [![Target Brazil](https://img.shields.io/badge/Target_Brazil_SQL-219ebc?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://github.com/ShivashishShrivastava/Target-Brazil-Ecommerce) | BigQuery · SQL · Sheets | E-commerce · Logistics | Analyzed 100k+ transactions, found 815% YoY growth, flagged freight delays. |
-| [![ElectroHub](https://img.shields.io/badge/ElectroHub_Dashboard-FFB703?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/ShivashishShrivastava/ElectroHub-Sales-Dashboard) | Power BI · Excel | Dashboards · KPIs | Dashboard tracking ₹122M in sales, surfaced Q4 peaks, diversification opportunities. |
+| [![Aerofit](https://img.shields.io/badge/Aerofit_Segmentation-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ShivashishShrivastava/aerofit-customer-analytics) | Python · Pandas · Seaborn · Sheets | Segmentation · Hypothesis Testing | Segmented treadmill customers, ran Chi-square & ANOVA, delivered 13 strategies. |
+| [![Target Brazil](https://img.shields.io/badge/Target_Brazil_SQL-219ebc?style=for-the-badge&logo=googlebigquery&logoColor=white)](https://github.com/ShivashishShrivastava/brazilian-ecommerce-analysis) | BigQuery · SQL · Sheets | E-commerce · Logistics | Analyzed 100k+ transactions, found 815% YoY growth, flagged freight delays. |
+| [![ElectroHub](https://img.shields.io/badge/ElectroHub_Dashboard-FFB703?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/ShivashishShrivastava/ElectroHub-Sales-Analysis) | Power BI · Excel | Dashboards · KPIs | Dashboard tracking ₹122M in sales, surfaced Q4 peaks, diversification opportunities. |
 
 ---
 
 ## 📱 GitHub Metrics  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShivashishShrivastava&label=Views&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ShivashishShrivastava?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ShivashishShrivastava?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShivashishShrivastava&count_private=true&theme=tokyonight&show_icons=true" alt="GitHub Stats">
@@ -82,3 +89,4 @@ I’m a **Data Analyst** who transforms raw datasets into actionable insights.
 ---
 
 ✨ *“From structured legal reasoning to structured analytics — I turn raw data into clear, evidence-backed stories.”*
+
