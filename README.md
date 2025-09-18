@@ -61,18 +61,23 @@ I’m a **Data Analyst** who transforms raw datasets into actionable insights.
 ## 📱 GitHub Metrics  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivashishShrivastava&label=Views&color=blue&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ShivashishShrivastava?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/ShivashishShrivastava?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+  <!-- Profile Badges -->
+  <img src="https://komarev.com/ghpvc/?username=ShivashishShrivastava&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ShivashishShrivastava?style=flat&logo=github&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/ShivashishShrivastava?style=flat&logo=github&label=Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivashishShrivastava&count_private=true&theme=tokyonight&show_icons=true" alt="GitHub Stats">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivashishShrivastava&count_private=true&theme=tokyonight&show_icons=true&hide_border=true&token=pat_1" alt="GitHub Stats">
   <br>
-  <img src="https://streak-stats.demolab.com?user=ShivashishShrivastava&theme=tokyonight" alt="GitHub Streak">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ShivashishShrivastava&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivashishShrivastava&theme=tokyonight&layout=compact" alt="Top Languages">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivashishShrivastava&theme=tokyonight&layout=compact&hide_border=true&token=pat_1" alt="Top Languages">
 </p>
+
 
 ---
 
